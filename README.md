@@ -1,4 +1,4 @@
-### Решение задач и разбор примеров из книги Адитья Бхаргава: Грокаем алгоритмы.(Grokking Algorithms. An Illustrated Guide For Programmers And Other Curiours People)
+# Решение задач и разбор примеров из книги Адитья Бхаргава: Грокаем алгоритмы.(Grokking Algorithms. An Illustrated Guide For Programmers And Other Curiours People)
 
 ## Выполнила Мария Гончаренко.
 
